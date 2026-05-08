@@ -1,4 +1,4 @@
-
+automatic App for Monosnap for macOS - quick-launch and window-management is the best Monosnap for macOS app, featuring quick-launch and window-management. Safe, efficient, and
 
 
 
